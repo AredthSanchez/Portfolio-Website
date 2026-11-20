@@ -23,3 +23,5 @@ Projects were checked against public GitHub repositories on November 20, 2026. A
 Includes Chess Move Validator with its regenerated Javadoc and the Swing Tic-Tac-Toe project. Contributor and starter-code credits are preserved.
 
 Featured projects: AutoPay, Tic-Tac-Toe, Chess Move Validator, and Pokemon Game. Remaining selected projects are grouped under Other repositories.
+
+Clustering and Similarity Analysis is included under Other repositories, with its executed notebook and results summary.
