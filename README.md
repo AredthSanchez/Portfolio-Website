@@ -1,18 +1,21 @@
-# Aredth Sanchez — CS Portfolio
+# Aredth Sanchez | Software Developer
 
-Responsive personal portfolio with animated visuals, project filters and details, experience, education, skills, contact links, and a downloadable resume.
+Simple, responsive portfolio with project descriptions, source links, experience, education, skills, and contact information.
 
-## Preview locally
+Live portfolio: https://aredth-sanchez-cs-portfolio.aredth7.chatgpt.site/
+
+## Local preview
 
 ```sh
-python3 -m http.server 5173
+python3 -m http.server 5182
 ```
 
-Open http://localhost:5173. No build step or dependencies required.
+Open http://localhost:5182. No dependencies or build step are required.
 
 ## Files
 
-- `index.html`: page, styles, and interactive project explorer
-- `Aredth-Sanchez-Resume.pdf`: downloadable resume
+- `index.html`: semantic HTML and responsive CSS, without JavaScript or third-party runtime requests.
+- `favicon.svg`: initials mark.
+- `Aredth-Sanchez-Resume.pdf`: current resume from AredthSanchez/Current_Resume.
 
-Uses Google Fonts with system font fallbacks. Includes keyboard navigation and reduced-motion support.
+Projects were checked against public GitHub repositories on November 20, 2026. AutoPay links to https://autopay.aredthsanchez.workers.dev/. Blu Capital is an independent redesign concept. Coursework and learning exercises are labeled accordingly. Private repositories and third-party forks are not presented as original public projects.
