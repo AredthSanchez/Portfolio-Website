@@ -21,3 +21,5 @@ Open http://localhost:5182. No dependencies or build step are required.
 Projects were checked against public GitHub repositories on November 20, 2026. AutoPay links to https://autopay.aredthsanchez.workers.dev/. Blu Capital is an independent redesign concept. Coursework and learning exercises are labeled accordingly. Private repositories and third-party forks are not presented as original public projects.
 
 Includes Chess Move Validator with its regenerated Javadoc and the Swing Tic-Tac-Toe project. Contributor and starter-code credits are preserved.
+
+Featured projects: AutoPay, Tic-Tac-Toe, Chess Move Validator, and Pokemon Game. Remaining selected projects are grouped under Other repositories.
