@@ -2,7 +2,7 @@
 
 Simple, responsive portfolio with project descriptions, source links, experience, education, skills, and contact information.
 
-Live portfolio: https://aredth-sanchez-cs-portfolio.aredth7.chatgpt.site/
+Live portfolio: https://aredthsanchez.github.io/Portfolio-Website/
 
 ## Local preview
 
